@@ -1,5 +1,5 @@
 # Project1
-EDS 6342 - Project 1
+EDS 6340 - Project 
 
 Phase 1 tasks:
 |Status | Tasks | Assigned| 
