@@ -21,6 +21,7 @@ This comprehensive approach aims to harness the power of various machine learnin
 
 Link to dataset: https://archive.ics.uci.edu/dataset/791/metropt+3+dataset
 
+## 2. Tasks Log
 Phase 1 tasks:
 |Status | Tasks | Assigned| 
 | -------- | ------- |--------|
