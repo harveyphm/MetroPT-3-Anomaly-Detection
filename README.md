@@ -15,4 +15,4 @@ Phase 2 tasks:
 | 🔲 In Progress | Random Forest | Haven |
 | 🔲 In Progress | SVM | Srikaya |
 | 🔲 In Progress | Naive Bayes | Hussain |
-| 🔲 In Progress | Variables Seclection & Bi-directional Elimination  | Pham |
+|:white_check_mark: Done | Variables Seclection & Bi-directional Elimination  | Pham |
