@@ -41,7 +41,7 @@ Phase 2 tasks:
 
 ## 3. Experimental Results
 
-### a.Machine Learning Algorithms
+### a. Machine Learning Algorithms
 
 |Classifier              | Precision | Recall | F1-Score| 
 | -----------------------| ------- |--------|-----------|
