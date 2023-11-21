@@ -57,5 +57,5 @@ Phase 2 tasks:
 | :white_check_mark: Done | KNN | Preetham |
 | 🔲 In Progress | Random Forest | Haven |
 | 🔲 In Progress | SVM | Srikaya |
-| 🔲 In Progress | Naive Bayes | Hussain |
+|:white_check_mark: Done | Naive Bayes | Hussain |
 |:white_check_mark: Done | Variables Seclection & Bi-directional Elimination  | Pham |
