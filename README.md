@@ -25,7 +25,7 @@ Link to dataset: https://archive.ics.uci.edu/dataset/791/metropt+3+dataset
 * Associated Tasks: Classification
 * Feature Type: Real
 * Number of Instances: 1516948
-* number of Features: 15
+* Number of Features: 15
 
 ## 2. Experimental Results
 
@@ -35,8 +35,8 @@ Link to dataset: https://archive.ics.uci.edu/dataset/791/metropt+3+dataset
 | -----------------------| ------- |--------|-----------|
 | Linear Regression      | 0.98 | 0.98 | 0.98 |
 | Naive-Bayes            | 0.95 | 0.95 | 0.95 |
-| K-Nearest Neighbours   | 0.99 | 0.99 | 0.99 |
-| Random Forest          | 1.00 |1.00 | 1.00 |
+| K-Nearest Neighbors    | 0.99 | 0.99 | 0.99 |
+| Random Forest          | 1.00 | 1.00 | 1.00 |
 | Support Vector Machine | 0.99 | 0.99 | 0.99 |
 
 ### b. Advanced Machine Learning Algorithms
