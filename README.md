@@ -4,8 +4,8 @@ This is a group project from **EDS 6340: Introducing to Data Science** at Univer
 
 |Team member| Github Link|
 |:---|:-----------:|
-|Harvey P.| ![:link:](https://github.com/harveyphm)|
-|Haven L.| ![:link:](https://github.com/daeullee12)|
+|Harvey P.| [:link:](https://github.com/harveyphm)|
+|Haven L.| [:link:](https://github.com/daeullee12)|
 |Hussain Z.| |
 |Preetham| |
 |Jayanth| |
