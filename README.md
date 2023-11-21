@@ -44,7 +44,7 @@ Phase 2 tasks:
 ### a.Machine Learning Algorithms
 
 |Classifier              | Precision | Recall | F1-Score| 
-| -----------------------| ------- |--------~|-----------|
+| -----------------------| ------- |--------|-----------|
 | Linear Regression      | x |x|x|
 | Naive-Bayes            | 0.95 | 0.95 | 0.95 |
 | K-Nearest Neighbours   | 0.99 | 0.99 | 0.99 |
