@@ -1,4 +1,4 @@
-#MetroPT-3 Anomaly Detection using Machine Learning and Deep Learning
+# MetroPT-3 Anomaly Detection using Machine Learning and Deep Learning
 
 ## 1. Introduction:
 
