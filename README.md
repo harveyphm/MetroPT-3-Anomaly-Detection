@@ -1,5 +1,7 @@
 # MetroPT-3 Anomaly Detection using Machine Learning and Deep Learning
 
+This is a group project from **EDS 6340: Introducing to Data Science** at University of Houston - Fall 2023
+
 ## 1. Introduction:
 
 In the realm of predictive maintenance and anomaly detection, the MetroPT-3 dataset serves as a valuable resource for advancing the capabilities of deep learning and machine learning models. Specifically designed to address the challenges associated with compressors, this dataset is tailored for developing models that can predict remaining useful life (RUL), detect anomalies, and facilitate predictive maintenance. 
