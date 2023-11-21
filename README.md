@@ -51,6 +51,6 @@ Phase 2 tasks:
 | Random Forest          | 1.00 |1.00 | 1.00 |
 | Support Vector Machine | 0.99 | 0.99 | 0.99 |
 
-### a. Advanced Machine Learning Algorithms
+### b. Advanced Machine Learning Algorithms
 
 
