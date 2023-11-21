@@ -1,5 +1,4 @@
-# EDS 6340 - Project 
-
+#MetroPT-3 Anomaly Detection using Machine Learning and Deep Learning
 
 ## 1. Introduction:
 
