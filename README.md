@@ -27,7 +27,22 @@ Link to dataset: https://archive.ics.uci.edu/dataset/791/metropt+3+dataset
 * Number of Instances: 1516948
 * number of Features: 15
 
-## 2. Tasks Log
+## 2. Experimental Results
+
+### a. Machine Learning Algorithms
+
+|Classifier              | Precision | Recall | F1-Score| 
+| -----------------------| ------- |--------|-----------|
+| Linear Regression      | x |x|x|
+| Naive-Bayes            | 0.95 | 0.95 | 0.95 |
+| K-Nearest Neighbours   | 0.99 | 0.99 | 0.99 |
+| Random Forest          | 1.00 |1.00 | 1.00 |
+| Support Vector Machine | 0.99 | 0.99 | 0.99 |
+
+### b. Advanced Machine Learning Algorithms
+
+
+## 3. Tasks Log
 Phase 1 tasks:
 |Status | Tasks | Assigned| 
 | -------- | ------- |--------|
@@ -44,19 +59,3 @@ Phase 2 tasks:
 | 🔲 In Progress | SVM | Srikaya |
 | 🔲 In Progress | Naive Bayes | Hussain |
 |:white_check_mark: Done | Variables Seclection & Bi-directional Elimination  | Pham |
-
-## 3. Experimental Results
-
-### a. Machine Learning Algorithms
-
-|Classifier              | Precision | Recall | F1-Score| 
-| -----------------------| ------- |--------|-----------|
-| Linear Regression      | x |x|x|
-| Naive-Bayes            | 0.95 | 0.95 | 0.95 |
-| K-Nearest Neighbours   | 0.99 | 0.99 | 0.99 |
-| Random Forest          | 1.00 |1.00 | 1.00 |
-| Support Vector Machine | 0.99 | 0.99 | 0.99 |
-
-### b. Advanced Machine Learning Algorithms
-
-
