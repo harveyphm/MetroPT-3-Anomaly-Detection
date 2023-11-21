@@ -33,7 +33,7 @@ Phase 2 tasks:
 |Status | Tasks | Assigned| 
 | -------- | ------- |--------|
 | 🔲 In Progress | Linear Regression | Jayanth |
-| 🔲 In Progress | KNN | Preetham |
+| :white_check_mark: Done | KNN | Preetham |
 | 🔲 In Progress | Random Forest | Haven |
 | 🔲 In Progress | SVM | Srikaya |
 | 🔲 In Progress | Naive Bayes | Hussain |
