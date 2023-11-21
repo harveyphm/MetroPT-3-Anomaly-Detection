@@ -33,7 +33,7 @@ Link to dataset: https://archive.ics.uci.edu/dataset/791/metropt+3+dataset
 
 |Classifier              | Precision | Recall | F1-Score| 
 | -----------------------| ------- |--------|-----------|
-| Linear Regression      | x |x|x|
+| Linear Regression      | 0.98 | 0.98 | 0.98 |
 | Naive-Bayes            | 0.95 | 0.95 | 0.95 |
 | K-Nearest Neighbours   | 0.99 | 0.99 | 0.99 |
 | Random Forest          | 1.00 |1.00 | 1.00 |
