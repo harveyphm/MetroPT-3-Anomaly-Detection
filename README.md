@@ -41,6 +41,10 @@ Link to dataset: https://archive.ics.uci.edu/dataset/791/metropt+3+dataset
 
 ### b. Advanced Machine Learning Algorithms
 
+|Classifier              | Precision | Recall | F1-Score| 
+| -----------------------| ------- |--------|-----------|
+| Extreme Learning Machine  | 1.00 | 1.00 | 1.00 |
+
 
 ## 3. Tasks Log
 Phase 1 tasks:
@@ -57,5 +61,15 @@ Phase 2 tasks:
 | :white_check_mark: Done | KNN | Preetham |
 | :white_check_mark: Done | Random Forest | Haven |
 | 🔲 In Progress | SVM | Srikaya |
-|:white_check_mark: Done | Naive Bayes | Hussain |
-|:white_check_mark: Done | Variables Seclection & Bi-directional Elimination  | Pham |
+| :white_check_mark: Done | Naive Bayes | Hussain |
+| :white_check_mark: Done | Variables Seclection & Bi-directional Elimination  | Pham |
+
+
+Phase 2 tasks (cont.):
+|Status | Tasks | Assigned| 
+| -------- | ------- |--------|
+|  :white_check_mark: Done| Extreme Learning Machine | Pham |
+| 🔲 In Progress | XGBoost | Haven & Hussain |
+| 🔲 In Progress | Neural Net | Srikaya |
+| 🔲 In Progress | Ensemble | Preetham |
+
