@@ -37,14 +37,15 @@ Link to dataset: https://archive.ics.uci.edu/dataset/791/metropt+3+dataset
 | Naive-Bayes            | 0.95 | 0.95 | 0.95 |
 | K-Nearest Neighbors    | 0.99 | 0.99 | 0.99 |
 | Random Forest          | 1.00 | 1.00 | 1.00 |
-| Support Vector Machine | 0.99 | 0.99 | 0.99 |
+| Support Vector Machine | 1.00 | 1.00 | 1.00 |
 
 ### b. Advanced Machine Learning Algorithms
 
 |Classifier              | Precision | Recall | F1-Score| 
 | -----------------------| ------- |--------|-----------|
 | Extreme Learning Machine  | 1.00 | 1.00 | 1.00 |
-| XGBoost  | 1.00 | 1.00 | 1.00 |
+| XGBoost                   | 1.00 | 1.00 | 1.00 |
+| Neural Net                | 1.00 | 1.00 | 1.00 |
 
 
 ## 3. Tasks Log
@@ -58,7 +59,7 @@ Phase 1 tasks:
 Phase 2 tasks:
 |Status | Tasks | Assigned| 
 | -------- | ------- |--------|
-| 🔲 In Progress | Linear Regression | Jayanth |
+| :white_check_mark: Done | Linear Regression | Jayanth |
 | :white_check_mark: Done | KNN | Preetham |
 | :white_check_mark: Done | Random Forest | Haven |
 | :white_check_mark: Done | SVM | Srikaya |
