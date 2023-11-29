@@ -61,7 +61,7 @@ Phase 2 tasks:
 | 🔲 In Progress | Linear Regression | Jayanth |
 | :white_check_mark: Done | KNN | Preetham |
 | :white_check_mark: Done | Random Forest | Haven |
-| 🔲 In Progress | SVM | Srikaya |
+| :white_check_mark: Done | SVM | Srikaya |
 | :white_check_mark: Done | Naive Bayes | Hussain |
 | :white_check_mark: Done | Variables Seclection & Bi-directional Elimination  | Pham |
 
@@ -71,6 +71,6 @@ Phase 2 tasks (cont.):
 | -------- | ------- |--------|
 |  :white_check_mark: Done| Extreme Learning Machine | Pham |
 |  :white_check_mark: Done | XGBoost | Haven & Hussain |
-| 🔲 In Progress | Neural Net | Srikaya |
+|  :white_check_mark: Done | Neural Net | Srikaya |
 | 🔲 In Progress | Ensemble | Preetham |
 
