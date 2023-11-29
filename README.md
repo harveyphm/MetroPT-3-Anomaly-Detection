@@ -44,6 +44,7 @@ Link to dataset: https://archive.ics.uci.edu/dataset/791/metropt+3+dataset
 |Classifier              | Precision | Recall | F1-Score| 
 | -----------------------| ------- |--------|-----------|
 | Extreme Learning Machine  | 1.00 | 1.00 | 1.00 |
+| XGBoost  | 1.00 | 1.00 | 1.00 |
 
 
 ## 3. Tasks Log
@@ -69,7 +70,7 @@ Phase 2 tasks (cont.):
 |Status | Tasks | Assigned| 
 | -------- | ------- |--------|
 |  :white_check_mark: Done| Extreme Learning Machine | Pham |
-| 🔲 In Progress | XGBoost | Haven & Hussain |
+|  :white_check_mark: Done | XGBoost | Haven & Hussain |
 | 🔲 In Progress | Neural Net | Srikaya |
 | 🔲 In Progress | Ensemble | Preetham |
 
