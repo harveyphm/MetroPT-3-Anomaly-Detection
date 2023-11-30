@@ -37,7 +37,7 @@ Link to dataset: https://archive.ics.uci.edu/dataset/791/metropt+3+dataset
 | Naive-Bayes            | 0.95 | 0.95 | 0.95 |
 | K-Nearest Neighbors    | 0.99 | 0.99 | 0.99 |
 | Random Forest          | 1.00 | 1.00 | 1.00 |
-| Support Vector Machine | 1.00 | 1.00 | 1.00 |
+| Support Vector Machine | 0.99 | 0.99 | 0.99 |
 
 ### b. Advanced Machine Learning Algorithms
 
