@@ -46,6 +46,7 @@ Link to dataset: https://archive.ics.uci.edu/dataset/791/metropt+3+dataset
 | Extreme Learning Machine  | 1.00 | 1.00 | 1.00 |
 | XGBoost                   | 1.00 | 1.00 | 1.00 |
 | Neural Net                | 1.00 | 1.00 | 1.00 |
+| Emsemble 3 Adv models     | 1.00 | 1.00 | 1.00 |
 
 
 ## 3. Tasks Log
@@ -73,5 +74,13 @@ Phase 2 tasks (cont.):
 |  :white_check_mark: Done| Extreme Learning Machine | Pham |
 |  :white_check_mark: Done | XGBoost | Haven & Hussain |
 |  :white_check_mark: Done | Neural Net | Srikaya |
-| 🔲 In Progress | Ensemble | Preetham |
+| :white_check_mark: Done  | Ensemble | Preetham |
+
+
+Phase 2 tasks (end):
+|Status | Tasks | Assigned| 
+| -------- | ------- |--------|
+| 🔲 In Progress | Report | Pham  |
+| 🔲 In Progress | Powerpoint | Pham  |
+| 🔲 In Progress | Presentation | All  |
 
