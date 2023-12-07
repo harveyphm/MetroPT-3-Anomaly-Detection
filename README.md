@@ -80,7 +80,7 @@ Phase 2 tasks (cont.):
 Phase 2 tasks (end):
 |Status | Tasks | Assigned| 
 | -------- | ------- |--------|
-| 🔲 In Progress | Report | Pham  |
-| 🔲 In Progress | Powerpoint | Pham  |
-| 🔲 In Progress | Presentation | All  |
+|  :white_check_mark: Done| Report | Pham  |
+|  :white_check_mark: Done| Powerpoint | Pham  |
+|  :white_check_mark: Done | Presentation | All  |
 
