@@ -48,39 +48,3 @@ Link to dataset: https://archive.ics.uci.edu/dataset/791/metropt+3+dataset
 | Neural Net                | 1.00 | 1.00 | 1.00 |
 | Emsemble 3 Adv models     | 1.00 | 1.00 | 1.00 |
 
-
-## 3. Tasks Log
-Phase 1 tasks:
-|Status | Tasks | Assigned| 
-| -------- | ------- |--------|
-| :white_check_mark: Done |  Clean data and perform Data Exploratory Analysis|  Team 14A |
-| :white_check_mark: Done| Upload data to SQL and run query| Team 14B|
-| :white_check_mark: Done| PowerPoint| Both team |
-
-Phase 2 tasks:
-|Status | Tasks | Assigned| 
-| -------- | ------- |--------|
-| :white_check_mark: Done | Linear Regression | Jayanth |
-| :white_check_mark: Done | KNN | Preetham |
-| :white_check_mark: Done | Random Forest | Haven |
-| :white_check_mark: Done | SVM | Srikaya |
-| :white_check_mark: Done | Naive Bayes | Hussain |
-| :white_check_mark: Done | Variables Seclection & Bi-directional Elimination  | Pham |
-
-
-Phase 2 tasks (cont.):
-|Status | Tasks | Assigned| 
-| -------- | ------- |--------|
-|  :white_check_mark: Done| Extreme Learning Machine | Pham |
-|  :white_check_mark: Done | XGBoost | Haven & Hussain |
-|  :white_check_mark: Done | Neural Net | Srikaya |
-| :white_check_mark: Done  | Ensemble | Preetham |
-
-
-Phase 2 tasks (end):
-|Status | Tasks | Assigned| 
-| -------- | ------- |--------|
-|  :white_check_mark: Done| Report | Pham  |
-|  :white_check_mark: Done| Powerpoint | Pham  |
-|  :white_check_mark: Done | Presentation | All  |
-
