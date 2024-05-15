@@ -1,15 +1,10 @@
 # MetroPT-3 Anomaly Detection using Machine Learning and Deep Learning
 
-This is a group project from **EDS 6340: Introducing to Data Science** at University of Houston - Fall 2023
-
 |Team member| Github Link|
 |:---|:-----------:|
 |Harvey P.| [:link:](https://github.com/harveyphm)|
 |Haven L.| [:link:](https://github.com/daeullee12)|
-|Hussain Z.| |
 |Preetham| [:link:](https://github.com/Preetham134)|
-|Jayanth| |
-|Srikavya| |
 
 ## 1. Introduction:
 
